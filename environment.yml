@@ -1,0 +1,24 @@
+name: 2025Python_Git_tutorial
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - scipy
+  - numpy
+  - matplotlib
+  - dask
+  - pandas
+  - xarray
+  - xgcm
+  - netcdf4
+  - cmocean
+  - gsw
+  - xhistogram
+  - jupyterlab
+  - ipykernel
+  - wget
+  - curl
+  - pip
+  - datetime
+  - cartopy
+  - os  

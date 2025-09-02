@@ -1,0 +1,7 @@
+figures/
+movies/
+data/raw*
+!data/raw_observational_products/README.md
+.DS_store
+.ipynb_checkpoints
+.__pycache__
