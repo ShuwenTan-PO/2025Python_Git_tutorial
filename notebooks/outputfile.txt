@@ -1,0 +1,3 @@
+Loading matlab/R2024b
+  Loading requirement: pre-module post-module
+MATLAB is selecting SOFTWARE rendering.
